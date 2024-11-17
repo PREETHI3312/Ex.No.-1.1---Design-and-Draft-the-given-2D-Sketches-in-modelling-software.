@@ -1,6 +1,5 @@
+# DATE:
 # Ex.No.-1.1-Design and Draft the given 2D Sketches in modelling software.
- ## NAME: A K PREETHI
- ## REG NO:212223230156
 
 ## AIM
 
